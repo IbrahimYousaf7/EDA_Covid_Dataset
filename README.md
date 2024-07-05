@@ -56,11 +56,11 @@ Trends Over Time: Analysis of changes in confirmed cases, deaths, and recoveries
 
 # Death and Recovery Ratios:
 
-Deaths per 100 Cases: Analysis of the fatality rate per 100 confirmed cases.
+Deaths per country: Analysis of the fatality rate per country.
 
-Recovered per 100 Cases: Examination of recovery rates per 100 confirmed cases.
+Recovered per country: Examination of recovery rates per country.
 
-Deaths per 100 Recovered: Evaluation of the number of deaths per 100 recoveries.
+Deaths per country: Evaluation of the number of deaths per country.
 
 
 # Visualizations:
@@ -73,7 +73,6 @@ Bar Charts: To compare the number of cases, deaths, and recoveries across differ
 
 Heatmaps: To visualize the severity and spread of COVID-19 across different geographical areas.
 
-Box Plots: To identify outliers and understand the distribution of data.
 
 
 # Conclusion:
